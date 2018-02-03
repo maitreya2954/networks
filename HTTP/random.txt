@@ -1,0 +1,133 @@
+eno1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether a0:2b:b8:49:26:c5  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 4406  bytes 379607 (379.6 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4406  bytes 379607 (379.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlo1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.16.10.108  netmask 255.255.0.0  broadcast 172.16.255.255
+        inet6 fe80::a66a:a935:22a4:f670  prefixlen 64  scopeid 0x20<link>
+        ether 9c:d2:1e:4e:4d:69  txqueuelen 1000  (Ethernet)
+        RX packets 71226  bytes 38227627 (38.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 30144  bytes 5474550 (5.4 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlo1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.16.10.108  netmask 255.255.0.0  broadcast 172.16.255.255
+        inet6 fe80::a66a:a935:22a4:f670  prefixlen 64  scopeid 0x20<link>
+        ether 9c:d2:1e:4e:4d:69  txqueuelen 1000  (Ethernet)
+        RX packets 71385  bytes 38255329 (38.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 30152  bytes 5475460 (5.4 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         172.16.255.250  0.0.0.0         UG    600    0        0 wlo1
+169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 wlo1
+172.16.0.0      0.0.0.0         255.255.0.0     U     600    0        0 wlo1
+PING 172.16.255.250 (172.16.255.250) 56(84) bytes of data.
+64 bytes from 172.16.255.250: icmp_seq=1 ttl=64 time=2.15 ms
+64 bytes from 172.16.255.250: icmp_seq=2 ttl=64 time=2.18 ms
+64 bytes from 172.16.255.250: icmp_seq=3 ttl=64 time=2.19 ms
+64 bytes from 172.16.255.250: icmp_seq=4 ttl=64 time=2.03 ms
+64 bytes from 172.16.255.250: icmp_seq=5 ttl=64 time=4.15 ms
+64 bytes from 172.16.255.250: icmp_seq=6 ttl=64 time=2.37 ms
+64 bytes from 172.16.255.250: icmp_seq=7 ttl=64 time=2.67 ms
+64 bytes from 172.16.255.250: icmp_seq=8 ttl=64 time=4.17 ms
+64 bytes from 172.16.255.250: icmp_seq=9 ttl=64 time=3.99 ms
+64 bytes from 172.16.255.250: icmp_seq=10 ttl=64 time=2.11 ms
+64 bytes from 172.16.255.250: icmp_seq=11 ttl=64 time=2.32 ms
+64 bytes from 172.16.255.250: icmp_seq=12 ttl=64 time=3.90 ms
+64 bytes from 172.16.255.250: icmp_seq=13 ttl=64 time=4.59 ms
+64 bytes from 172.16.255.250: icmp_seq=14 ttl=64 time=2.58 ms
+64 bytes from 172.16.255.250: icmp_seq=15 ttl=64 time=2.22 ms
+64 bytes from 172.16.255.250: icmp_seq=16 ttl=64 time=2.32 ms
+64 bytes from 172.16.255.250: icmp_seq=17 ttl=64 time=2.69 ms
+64 bytes from 172.16.255.250: icmp_seq=18 ttl=64 time=2.25 ms
+64 bytes from 172.16.255.250: icmp_seq=19 ttl=64 time=2.21 ms
+64 bytes from 172.16.255.250: icmp_seq=20 ttl=64 time=2.15 ms
+64 bytes from 172.16.255.250: icmp_seq=21 ttl=64 time=2.24 ms
+64 bytes from 172.16.255.250: icmp_seq=22 ttl=64 time=2.81 ms
+64 bytes from 172.16.255.250: icmp_seq=23 ttl=64 time=3.79 ms
+64 bytes from 172.16.255.250: icmp_seq=24 ttl=64 time=3.45 ms
+64 bytes from 172.16.255.250: icmp_seq=25 ttl=64 time=2.16 ms
+
+--- 172.16.255.250 ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24037ms
+rtt min/avg/max/mdev = 2.037/2.791/4.597/0.803 ms
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=57 time=3.96 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=57 time=3.33 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=57 time=455 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=57 time=259 ms
+64 bytes from 8.8.8.8: icmp_seq=5 ttl=57 time=367 ms
+64 bytes from 8.8.8.8: icmp_seq=6 ttl=57 time=462 ms
+64 bytes from 8.8.8.8: icmp_seq=7 ttl=57 time=291 ms
+64 bytes from 8.8.8.8: icmp_seq=8 ttl=57 time=5.19 ms
+64 bytes from 8.8.8.8: icmp_seq=9 ttl=57 time=3.14 ms
+64 bytes from 8.8.8.8: icmp_seq=10 ttl=57 time=3.17 ms
+64 bytes from 8.8.8.8: icmp_seq=11 ttl=57 time=3.53 ms
+64 bytes from 8.8.8.8: icmp_seq=12 ttl=57 time=3.14 ms
+64 bytes from 8.8.8.8: icmp_seq=13 ttl=57 time=3.17 ms
+64 bytes from 8.8.8.8: icmp_seq=14 ttl=57 time=3.06 ms
+64 bytes from 8.8.8.8: icmp_seq=15 ttl=57 time=3.35 ms
+64 bytes from 8.8.8.8: icmp_seq=16 ttl=57 time=4.95 ms
+64 bytes from 8.8.8.8: icmp_seq=17 ttl=57 time=5.37 ms
+64 bytes from 8.8.8.8: icmp_seq=18 ttl=57 time=4.23 ms
+64 bytes from 8.8.8.8: icmp_seq=19 ttl=57 time=4.43 ms
+64 bytes from 8.8.8.8: icmp_seq=20 ttl=57 time=3.15 ms
+64 bytes from 8.8.8.8: icmp_seq=21 ttl=57 time=3.41 ms
+64 bytes from 8.8.8.8: icmp_seq=22 ttl=57 time=3.11 ms
+64 bytes from 8.8.8.8: icmp_seq=23 ttl=57 time=3.14 ms
+64 bytes from 8.8.8.8: icmp_seq=24 ttl=57 time=3.14 ms
+64 bytes from 8.8.8.8: icmp_seq=25 ttl=57 time=4.11 ms
+
+--- 8.8.8.8 ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24022ms
+rtt min/avg/max/mdev = 3.068/76.460/462.848/150.124 ms
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.google.co.in
+Address: 216.58.197.67
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	www.google.com
+Address: 172.217.26.196
+
+traceroute to www.facebook.com (31.13.78.35), 30 hops max, 60 byte packets
+ 1  gateway (172.16.255.250)  1.995 ms  2.600 ms  2.727 ms
+ 2  192.168.2.1 (192.168.2.1)  1.248 ms  1.552 ms  1.661 ms
+ 3  14.139.187.97 (14.139.187.97)  3.732 ms  3.847 ms  4.522 ms
+ 4  10.119.236.173 (10.119.236.173)  5.965 ms  6.109 ms  7.049 ms
+ 5  10.163.251.49 (10.163.251.49)  8.241 ms  11.513 ms  11.686 ms
+ 6  10.119.73.122 (10.119.73.122)  7.268 ms  6.952 ms  12.071 ms
+ 7  182.19.35.190 (182.19.35.190)  35.075 ms  32.676 ms  30.711 ms
+ 8  182.19.106.202 (182.19.106.202)  26.727 ms  28.896 ms  29.542 ms
+ 9  ae31-100-xcr1.mlu.cw.net (213.38.254.33)  156.825 ms  156.539 ms  156.970 ms
+10  ae9-xcr2.sgs.cw.net (195.2.24.46)  313.658 ms  315.570 ms  316.360 ms
+11  facebook-sgs.cw.net (195.2.19.182)  171.558 ms  171.821 ms  170.201 ms
+12  po111.asw02.sin1.tfbnw.net (31.13.30.116)  168.973 ms  170.663 ms po171.asw02.sin4.tfbnw.net (74.119.78.8)  169.123 ms
+13  po242.psw03.sin4.tfbnw.net (173.252.65.117)  164.463 ms po212.psw04.sin4.tfbnw.net (157.240.34.123)  163.283 ms po231.psw04.sin4.tfbnw.net (157.240.34.125)  162.909 ms
+14  173.252.67.107 (173.252.67.107)  165.024 ms * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  edge-star-mini-shv-01-sit4.facebook.com (31.13.78.35)  502.633 ms * *
