@@ -1,0 +1,1043 @@
+Connection established with server
+1
+recv4000bytes
+ack or nack3recv crc_sq0
+frame drop
+1
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+2
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+3
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+4
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+5
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+6
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+7
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd2
+delaysended
+7
+recv4000bytes
+ack or nack2recv crc_sq0
+7
+recv4000bytes
+ack or nack2recv crc_sq1
+
+check crc
+there is an error
+rnd2
+delaysended
+7
+recv4000bytes
+ack or nack2recv crc_sq1
+
+check crc
+there is an error
+rnd2
+delaysended
+7
+recv4000bytes
+ack or nack2recv crc_sq1
+
+check crc
+there is an error
+rnd1
+ack211
+sent12bytes
+
+7
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+8
+recv4000bytes
+ack or nack1recv crc_sq1
+8
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+9
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+10
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+11
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+12
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+13
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+14
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+15
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+16
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+17
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+18
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+19
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+20
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+21
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+22
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+23
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+24
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+25
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+26
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+27
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+28
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+29
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+30
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+31
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+32
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+33
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+34
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+35
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+36
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+37
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+38
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+39
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+40
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+41
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+42
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+43
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+44
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+45
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+46
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+47
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+48
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+49
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+50
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+51
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+52
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+53
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+54
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+55
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+56
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+57
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+58
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+59
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+60
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+61
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+62
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+63
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+64
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+65
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+66
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+67
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+68
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+69
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+70
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+71
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+72
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+73
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+74
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+75
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+76
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+77
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+78
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+79
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+80
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+81
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+82
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+83
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+84
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+85
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+86
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+87
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+88
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+89
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+90
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+91
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+92
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+93
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+94
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+95
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+96
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+97
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+98
+recv4000bytes
+ack or nack1recv crc_sq0
+
+check crc
+no error
+rnd1
+ack111
+sent12bytes
+
+99
+recv4000bytes
+ack or nack1recv crc_sq1
+
+check crc
+no error
+rnd1
+ack101
+sent12bytes
+
+100
+recv0bytes
+ack or nack1recv crc_sq1
+no.of nacks3
+no.of frame_drops1
+no.of dealyed acks or nacks3
+no.of ack or nack drops0
+no.of successful frames100

@@ -1,0 +1,937 @@
+Server started running at 0.0.0.0:12345
+Accepted incoming connection:
+frame
+1
+
+rnd3
+send4000bytes
+time is out
+count1
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+1frame sent successfully
+frame
+2
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+2frame sent successfully
+frame
+3
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+3frame sent successfully
+frame
+4
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+4frame sent successfully
+frame
+5
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+5frame sent successfully
+frame
+6
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+6frame sent successfully
+frame
+7
+
+rnd1
+send4000bytes
+time is out
+count2
+rnd2
+send4000bytes
+received12
+ack112
+Data is available now.
+7frame sent successfully
+frame
+8
+
+rnd2
+send4000bytes
+time is out
+count3
+rnd2
+send4000bytes
+received12
+ack212
+Data is available now.
+nack
+rnd2
+send4000bytes
+received12
+ack212
+Data is available now.
+nack
+rnd1
+send4000bytes
+received12
+ack211
+Data is available now.
+nack
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+8frame sent successfully
+frame
+9
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+9frame sent successfully
+frame
+10
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+10frame sent successfully
+frame
+11
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+11frame sent successfully
+frame
+12
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+12frame sent successfully
+frame
+13
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+13frame sent successfully
+frame
+14
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+14frame sent successfully
+frame
+15
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+15frame sent successfully
+frame
+16
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+16frame sent successfully
+frame
+17
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+17frame sent successfully
+frame
+18
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+18frame sent successfully
+frame
+19
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+19frame sent successfully
+frame
+20
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+20frame sent successfully
+frame
+21
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+21frame sent successfully
+frame
+22
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+22frame sent successfully
+frame
+23
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+23frame sent successfully
+frame
+24
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+24frame sent successfully
+frame
+25
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+25frame sent successfully
+frame
+26
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+26frame sent successfully
+frame
+27
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+27frame sent successfully
+frame
+28
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+28frame sent successfully
+frame
+29
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+29frame sent successfully
+frame
+30
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+30frame sent successfully
+frame
+31
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+31frame sent successfully
+frame
+32
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+32frame sent successfully
+frame
+33
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+33frame sent successfully
+frame
+34
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+34frame sent successfully
+frame
+35
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+35frame sent successfully
+frame
+36
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+36frame sent successfully
+frame
+37
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+37frame sent successfully
+frame
+38
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+38frame sent successfully
+frame
+39
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+39frame sent successfully
+frame
+40
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+40frame sent successfully
+frame
+41
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+41frame sent successfully
+frame
+42
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+42frame sent successfully
+frame
+43
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+43frame sent successfully
+frame
+44
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+44frame sent successfully
+frame
+45
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+45frame sent successfully
+frame
+46
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+46frame sent successfully
+frame
+47
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+47frame sent successfully
+frame
+48
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+48frame sent successfully
+frame
+49
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+49frame sent successfully
+frame
+50
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+50frame sent successfully
+frame
+51
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+51frame sent successfully
+frame
+52
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+52frame sent successfully
+frame
+53
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+53frame sent successfully
+frame
+54
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+54frame sent successfully
+frame
+55
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+55frame sent successfully
+frame
+56
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+56frame sent successfully
+frame
+57
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+57frame sent successfully
+frame
+58
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+58frame sent successfully
+frame
+59
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+59frame sent successfully
+frame
+60
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+60frame sent successfully
+frame
+61
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+61frame sent successfully
+frame
+62
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+62frame sent successfully
+frame
+63
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+63frame sent successfully
+frame
+64
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+64frame sent successfully
+frame
+65
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+65frame sent successfully
+frame
+66
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+66frame sent successfully
+frame
+67
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+67frame sent successfully
+frame
+68
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+68frame sent successfully
+frame
+69
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+69frame sent successfully
+frame
+70
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+70frame sent successfully
+frame
+71
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+71frame sent successfully
+frame
+72
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+72frame sent successfully
+frame
+73
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+73frame sent successfully
+frame
+74
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+74frame sent successfully
+frame
+75
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+75frame sent successfully
+frame
+76
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+76frame sent successfully
+frame
+77
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+77frame sent successfully
+frame
+78
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+78frame sent successfully
+frame
+79
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+79frame sent successfully
+frame
+80
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+80frame sent successfully
+frame
+81
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+81frame sent successfully
+frame
+82
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+82frame sent successfully
+frame
+83
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+83frame sent successfully
+frame
+84
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+84frame sent successfully
+frame
+85
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+85frame sent successfully
+frame
+86
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+86frame sent successfully
+frame
+87
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+87frame sent successfully
+frame
+88
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+88frame sent successfully
+frame
+89
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+89frame sent successfully
+frame
+90
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+90frame sent successfully
+frame
+91
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+91frame sent successfully
+frame
+92
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+92frame sent successfully
+frame
+93
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+93frame sent successfully
+frame
+94
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+94frame sent successfully
+frame
+95
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+95frame sent successfully
+frame
+96
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+96frame sent successfully
+frame
+97
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+97frame sent successfully
+frame
+98
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+98frame sent successfully
+frame
+99
+
+rnd1
+send4000bytes
+received12
+ack111
+Data is available now.
+99frame sent successfully
+frame
+100
+
+rnd1
+send4000bytes
+received12
+ack101
+Data is available now.
+100frame sent successfully
+no.of nacks3
+no.of frame drops1
+no.of delayed acks or nacks3
+no.of ack or nack drops0
+no.of frames send successfully100

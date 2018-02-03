@@ -1,0 +1,4 @@
+q1client.cpp is client that generates 10 frames. each frame of size 512 bits number randomly generated
+CRC is done for each frame and CRC bits appended and randomly 10bits flipped and then send to B(q1server.cpp) which
+acts as both server and client. B receives the CRC and appended bits. Again it does CRC check and changes the corrupted bits
+and send it to C(q2client2.cpp).It receives the CRC appended number and gives output.
